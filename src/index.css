@@ -6,44 +6,43 @@
 
 @layer base {
   :root {
-    --background: 60 9% 94%;
-    --foreground: 0 0% 5%;
+    --background: 220 14% 94%;
+    --foreground: 230 15% 8%;
 
-    --card: 60 9% 97%;
-    --card-foreground: 0 0% 5%;
+    --card: 220 14% 97%;
+    --card-foreground: 230 15% 8%;
 
-    --popover: 60 9% 97%;
-    --popover-foreground: 0 0% 5%;
+    --popover: 220 14% 97%;
+    --popover-foreground: 230 15% 8%;
 
-    --primary: 0 0% 5%;
-    --primary-foreground: 60 9% 94%;
+    --primary: 230 15% 8%;
+    --primary-foreground: 220 14% 94%;
 
-    --secondary: 45 93% 58%;
-    --secondary-foreground: 0 0% 5%;
+    --secondary: 265 75% 62%;
+    --secondary-foreground: 0 0% 100%;
 
-    --muted: 60 5% 88%;
-    --muted-foreground: 0 0% 35%;
+    --muted: 220 10% 88%;
+    --muted-foreground: 220 10% 35%;
 
-    --accent: 150 80% 44%;
-    --accent-foreground: 0 0% 5%;
+    --accent: 175 65% 42%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 85% 55%;
     --destructive-foreground: 0 0% 98%;
 
-    --border: 0 0% 5%;
-    --input: 0 0% 5%;
-    --ring: 0 0% 5%;
+    --border: 230 15% 8%;
+    --input: 230 15% 8%;
+    --ring: 230 15% 8%;
 
     --radius: 0px;
 
-    --brutal-shadow: 4px 4px 0px hsl(0 0% 5%);
-    --brutal-shadow-lg: 6px 6px 0px hsl(0 0% 5%);
-    --brutal-shadow-sm: 2px 2px 0px hsl(0 0% 5%);
+    --brutal-shadow: 4px 4px 0px hsl(230 15% 8%);
+    --brutal-shadow-lg: 6px 6px 0px hsl(230 15% 8%);
+    --brutal-shadow-sm: 2px 2px 0px hsl(230 15% 8%);
 
-    --warning: 30 95% 55%;
-    --success: 150 80% 44%;
-    --info: 210 90% 55%;
-
+    --warning: 35 90% 55%;
+    --success: 160 65% 42%;
+    --info: 250 75% 60%;
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
     --sidebar-primary: 240 5.9% 10%;
